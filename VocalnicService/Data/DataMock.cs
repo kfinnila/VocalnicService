@@ -23,6 +23,7 @@ namespace VocalnicService.Data
             exercises.Add(new Exercise() { Id = 9, Name = "Viaje - Medios", Description = "" });
             exercises.Add(new Exercise() { Id = 10, Name = "Viaje - Verbos", Description = "" });
             exercises.Add(new Exercise() { Id = 11, Name = "Fútbol", Description = "" });
+            exercises.Add(new Exercise() { Id = 21, Name = "Física 1", Description = "" });
             LoadQuestions();
         }
 

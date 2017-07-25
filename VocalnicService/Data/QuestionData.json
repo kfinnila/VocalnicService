@@ -868,7 +868,64 @@
     "exerciseId": 9,
     "question": "el defensa, el defensor",
     "answer": "der Verteidiger"
+  },
+
+  // 21 - Física 1
+  {
+    "id": "199",
+    "exerciseId": 21,
+    "question": "velocidad",
+    "answer": "die Geschwindigkeit"
+  },
+  {
+    "id": "200",
+    "exerciseId": 21,
+    "question": "disparar",
+    "answer": "abgeschossen"
+  },
+  {
+    "id": "201",
+    "exerciseId": 21,
+    "question": "causado",
+    "answer": "hervorgerufene"
+  },
+  {
+    "id": "202",
+    "exerciseId": 21,
+    "question": "interceptar",
+    "answer": "abfangen"
+  },
+  {
+    "id": "203",
+    "exerciseId": 21,
+    "question": "carga",
+    "answer": "die Ladung"
+  },
+  {
+    "id": "204",
+    "exerciseId": 21,
+    "question": "expulsar",
+    "answer": "ausgestoßen"
+  },
+  {
+    "id": "205",
+    "exerciseId": 21,
+    "question": "perpendicular",
+    "answer": "senkrecht "
+  },
+  {
+    "id": "206",
+    "exerciseId": 21,
+    "question": "seguidamente",
+    "answer": "anschließend"
+  },
+  {
+    "id": "207",
+    "exerciseId": 21,
+    "question": "mover",
+    "answer": "bewegen"
   }
+
 
 ]
 
